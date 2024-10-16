@@ -140,6 +140,8 @@ namespace banking
             Transaction transaction = new Transaction(accountNum, amount, "Withdraw");
             transaction.GetTransactionDetails();
         }*/
+
+        //Testing
         public static void WithdraFunds()
         {
             Console.Write("Enter Account Number: ");
