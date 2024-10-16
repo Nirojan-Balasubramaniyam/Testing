@@ -1,0 +1,14 @@
+C:\Users\rojan\Downloads\prac\banking\banking\bin\Debug\banking.exe.config
+C:\Users\rojan\Downloads\prac\banking\banking\bin\Debug\banking.exe
+C:\Users\rojan\Downloads\prac\banking\banking\bin\Debug\banking.pdb
+C:\Users\rojan\Downloads\prac\banking\banking\obj\Debug\banking.csproj.AssemblyReference.cache
+C:\Users\rojan\Downloads\prac\banking\banking\obj\Debug\banking.csproj.CoreCompileInputs.cache
+C:\Users\rojan\Downloads\prac\banking\banking\obj\Debug\banking.exe
+C:\Users\rojan\Downloads\prac\banking\banking\obj\Debug\banking.pdb
+F:\Unicom TIC\C#\Project 003 (Bank)\banking\bin\Debug\banking.exe.config
+F:\Unicom TIC\C#\Project 003 (Bank)\banking\bin\Debug\banking.exe
+F:\Unicom TIC\C#\Project 003 (Bank)\banking\bin\Debug\banking.pdb
+F:\Unicom TIC\C#\Project 003 (Bank)\banking\obj\Debug\banking.csproj.AssemblyReference.cache
+F:\Unicom TIC\C#\Project 003 (Bank)\banking\obj\Debug\banking.csproj.CoreCompileInputs.cache
+F:\Unicom TIC\C#\Project 003 (Bank)\banking\obj\Debug\banking.exe
+F:\Unicom TIC\C#\Project 003 (Bank)\banking\obj\Debug\banking.pdb

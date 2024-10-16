@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|f:\\unicom tic\\c#\\project 003 (bank)\\banking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|solutionrelative:checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D10479A-9E92-4CEE-8072-7CC2FC163A2E}|banking.csproj|solutionrelative:savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:44:57.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwCQAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:43:14.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAswM8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:29:00.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "CheckingAccount.cs",
+              "ToolTip": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\CheckingAccount.cs",
+              "RelativeToolTip": "CheckingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:05:42.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\Bank.cs",
+              "RelativeToolTip": "Bank.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:18:44.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:08:31.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "SavingAccount.cs",
+              "ToolTip": "F:\\Unicom TIC\\C#\\Project 003 (Bank)\\banking\\SavingAccount.cs",
+              "RelativeToolTip": "SavingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:03:43.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
